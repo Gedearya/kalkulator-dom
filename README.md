@@ -1,2 +1,2 @@
 # kalkulator-dom
-Tugas JavaScript PESILAT ALkademi 2023
+Tugas JavaScript PESILAT Alkademi 2023
